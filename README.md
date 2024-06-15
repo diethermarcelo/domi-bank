@@ -1,7 +1,7 @@
 #  domi-bank
 - A command line interface app for bank account transactions. 
 
-## Features
+## Features:
 - Authentication (Login/Register/Change Money)
 - Withdraw
 - Deposit
@@ -11,14 +11,14 @@
 - Business Logic
     - Register only if there's money
 
-## Technologies
+## Technologies:
 - C++ 12.2
 - G++ Compiler
 
-## Setup
+## Setup:
 - 
 
-## Run
+## Run:
 - g++ -o build/main src/main.cpp
 - cd build && main.exe
 
