@@ -1,4 +1,4 @@
-#  Domibank
+#  domi-bank
 - A CLI for Domibank account transactions. 
 
 ## Features
