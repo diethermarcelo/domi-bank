@@ -1,5 +1,5 @@
 #  domi-bank
-- A CLI for Domibank account transactions. 
+- A command line interface app for bank account transactions. 
 
 ## Features
 - Authentication (Login/Register/Change Money)
