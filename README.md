@@ -1,5 +1,5 @@
 #  domi-bank
-- A command line interface app for bank account transactions. 
+- A console application for bank account transactions. 
 
 ## Features:
 - Authentication (Login/Register/Change Money)
